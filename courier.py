@@ -1,4 +1,4 @@
-#Trying to commit changes with Git
+#Trying to commit changes with Git76876
 
 def stage_entrance(number, stages, flats_stage):
     num_entrance = number // (flats_stage * stages + 1) + 1
